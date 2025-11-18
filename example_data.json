@@ -1,0 +1,42 @@
+{
+  "suggestions": [
+    {
+      "id": 1,
+      "text": "Use active voice instead of passive voice for stronger writing",
+      "category": "grammar",
+      "timestamp": "2025-11-18T00:00:00.000000"
+    },
+    {
+      "id": 2,
+      "text": "Vary sentence length to create rhythm and maintain reader interest",
+      "category": "style",
+      "timestamp": "2025-11-18T00:00:00.000000"
+    },
+    {
+      "id": 3,
+      "text": "Show, don't tell - use concrete details instead of abstract statements",
+      "category": "style",
+      "timestamp": "2025-11-18T00:00:00.000000"
+    }
+  ],
+  "prompts": [
+    {
+      "id": 1,
+      "text": "Write a descriptive paragraph about a place you've never been",
+      "category": "creative-writing",
+      "timestamp": "2025-11-18T00:00:00.000000"
+    },
+    {
+      "id": 2,
+      "text": "Analyze the use of metaphors in a favorite poem",
+      "category": "analysis",
+      "timestamp": "2025-11-18T00:00:00.000000"
+    },
+    {
+      "id": 3,
+      "text": "Compare and contrast two different writing styles from different time periods",
+      "category": "analysis",
+      "timestamp": "2025-11-18T00:00:00.000000"
+    }
+  ]
+}
